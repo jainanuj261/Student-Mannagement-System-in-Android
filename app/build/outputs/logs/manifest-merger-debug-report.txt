@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\c9815299897ac3a1cac0eaaabd93e9c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ee4064282cb74dd7d6ae2d53d8000a0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5d61d59409971b44261e9d594bd6443\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\7b080d37e8bf5540c13b66a97cea33fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\37abdffb11489c8cbef0aecfaaa7f10e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\53d1e2ee6965a86afec8b71b1a91e1fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\45ba6a3665dbbc8a90686f5f415ad95b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6816b8c9268cdab5989ad06bb58f2f6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b7b8e857f4dbfb2f10d3b17dcda8229d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d47b367a90e8d102f9db01c05ab3da8c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\988edfe8745f728e3413f2c7a16474ce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\268c3814a79e412d7e46d07167e0cd93\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6897853c6e89f79d4cf8aa567ec9c142\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bb880a748a6b9911f1982e746b541a6f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5d61d59409971b44261e9d594bd6443\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5d61d59409971b44261e9d594bd6443\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:9:9-37
+	android:allowBackup
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.delaroystudios.studentmgt.Login_Activity
+ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:13:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.delaroystudios.studentmgt.StudentMainActivity
+ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:21:9-66
+	android:name
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml:21:19-54
+uses-sdk
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\c9815299897ac3a1cac0eaaabd93e9c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\c9815299897ac3a1cac0eaaabd93e9c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ee4064282cb74dd7d6ae2d53d8000a0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ee4064282cb74dd7d6ae2d53d8000a0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5d61d59409971b44261e9d594bd6443\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e5d61d59409971b44261e9d594bd6443\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\7b080d37e8bf5540c13b66a97cea33fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\7b080d37e8bf5540c13b66a97cea33fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\37abdffb11489c8cbef0aecfaaa7f10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\37abdffb11489c8cbef0aecfaaa7f10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\53d1e2ee6965a86afec8b71b1a91e1fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\53d1e2ee6965a86afec8b71b1a91e1fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\45ba6a3665dbbc8a90686f5f415ad95b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\45ba6a3665dbbc8a90686f5f415ad95b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6816b8c9268cdab5989ad06bb58f2f6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6816b8c9268cdab5989ad06bb58f2f6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b7b8e857f4dbfb2f10d3b17dcda8229d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b7b8e857f4dbfb2f10d3b17dcda8229d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d47b367a90e8d102f9db01c05ab3da8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d47b367a90e8d102f9db01c05ab3da8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\988edfe8745f728e3413f2c7a16474ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\988edfe8745f728e3413f2c7a16474ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\268c3814a79e412d7e46d07167e0cd93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\268c3814a79e412d7e46d07167e0cd93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6897853c6e89f79d4cf8aa567ec9c142\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6897853c6e89f79d4cf8aa567ec9c142\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bb880a748a6b9911f1982e746b541a6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\abhig\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bb880a748a6b9911f1982e746b541a6f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\abhig\AndroidStudioProjects\AndroidStudentMgt-master\app\src\main\AndroidManifest.xml
